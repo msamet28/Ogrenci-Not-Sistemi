@@ -1,1 +1,3 @@
-# Ogrenci-Not-Sistemi
+TR| C dili ile dosya işlemleri derinlemesine kullanılarak yapılan bu projede ogrenci numarası ve ders kodu bilgileri kullanılarak yeni not ekleme, var olan notu bulma, not düzenleme, not silme, notları ogrenci numarasi sirasina göre siralama ve notlari giriliş sirasina göre siralama işlemleri yapılabilmektedir. Tüm öğrenci/not kayıtları hem binary hem de txt dosyasına kaydedilmektedir. Isterseniz txt dosyasını silebilir veya yeniden oluşturabilirsiniz. 
+
+EN| This project, developed using file operations extensively in the C language, enables adding new grades, finding existing grades, editing grades, deleting grades, sorting grades by student number and sorting grades by entry order, using student number and course code information. All student/grade records are saved in both binary and text files. You can delete or recreate the text file if you wish.
